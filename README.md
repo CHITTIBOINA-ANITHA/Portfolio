@@ -38,7 +38,7 @@ A modern, responsive portfolio website built with **React.js** to showcase my pr
 Clone the repository
 
 ```bash
-git clone https://github.com/Madhureddy9390/portfolio.git
+git clone https://github.com/CHITTIBOINA-ANITHA/Portfolio
 ```
 
 Navigate into the project

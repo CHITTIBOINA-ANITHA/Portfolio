@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-![Portfolio Preview](./public/portfolio-preview.png)
+
 A modern, responsive portfolio website built with **React.js** to showcase my professional experience, technical skills, featured work, and contact information. The application focuses on clean UI, accessibility, reusable components, and a seamless user experience across desktop, tablet, and mobile devices.
 
 ## Live Demo
@@ -97,9 +97,9 @@ npm run preview
 
 If you'd like to connect or discuss opportunities, feel free to reach out.
 
-- Email: madhureddy.balu@gmail.com
-- LinkedIn: https://www.linkedin.com/in/madhu-balu-721a23259/
-- GitHub: https://github.com/Madhureddy9390
+- Email:chittiboinaanitha@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anitha-chittiboina
+- GitHub: https://github.com/CHITTIBOINA-ANITHA
 
 ## License
 
